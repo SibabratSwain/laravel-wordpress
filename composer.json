@@ -19,5 +19,7 @@
         "name": "sibabrat",
         "email": "sibabrat111@gmail.com"
     }
-]
+],
+  "version": "1.0.0",
+  "minimum-stability": "dev"
 }
