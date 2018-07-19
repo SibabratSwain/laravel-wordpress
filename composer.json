@@ -7,7 +7,6 @@
 ],
 "type": "silverstripe-modules",
 "require": {
-    "silverstripe/blogs": "1.0",
     "nettantra/laravel-wp": "dev-master"
 
 },
